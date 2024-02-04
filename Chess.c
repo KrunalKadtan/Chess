@@ -3,6 +3,8 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
+// Change
+
 char Chess_Board[19][37];
 int player;
 char name1[15], name2[15];
